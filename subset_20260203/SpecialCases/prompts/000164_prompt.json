@@ -1,0 +1,89 @@
+{
+    "000164.jpg": [
+        {
+            "prompt": "Add a white car on the road.",
+            "edit_type": "add_object",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Remove the two people walking in the foreground on the left and right of the pavement.",
+            "edit_type": "remove_object",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Replace the rectangular skyscraper in the left-center background with a modern glass tower.",
+            "edit_type": "replace_object",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Change the texture of the pavement to grey stone.",
+            "edit_type": "change_object_texture",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Change the color of the jacket worn by the man walking in the foreground on the left to blue.",
+            "edit_type": "change_object_color",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Change the architectural style of the large, ornate classical building on the far right to gothic.",
+            "edit_type": "change_object_style",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Move the two people walking in the foreground further to the right along the sidewalk, positioning them closer to the black bollards near the crosswalk.",
+            "edit_type": "translate_object",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Increase the height of the leftmost skyscraper in the background by 25%, making it taller than the adjacent building to its right.",
+            "edit_type": "scale_object",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Rotate the two people walking in the foreground 180 degrees clockwise so they are facing the opposite direction.",
+            "edit_type": "rotate_object",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Change the action of both people in the foreground to running.",
+            "edit_type": "change_object_action",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Apply a vintage oil painting style to the entire scene.",
+            "edit_type": "global_style_transfer",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Change the lighting direction to be from the upper right.",
+            "edit_type": "change_lighting_direction",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Change the weather to a snowy winter day.",
+            "edit_type": "change_weather",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Apply a global blur to the image.",
+            "edit_type": "apply_global_blur",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Increase the contrast of the image.",
+            "edit_type": "adjust_global_contrast",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Replace the city background with a mountain landscape.",
+            "edit_type": "replace_background_scene",
+            "special_case": "fisheye"
+        },
+        {
+            "prompt": "Blur the background buildings while keeping the foreground sharp.",
+            "edit_type": "blur_background",
+            "special_case": "fisheye"
+        }
+    ]
+}

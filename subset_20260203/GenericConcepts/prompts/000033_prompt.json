@@ -1,0 +1,89 @@
+{
+    "000033.jpg": [
+        {
+            "prompt": "Add a small dog walking next to the wheelchair.",
+            "edit_type": "add_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Remove the person pushing the wheelchair.",
+            "edit_type": "remove_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Replace the wheelchair with a motorized scooter.",
+            "edit_type": "replace_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the texture of the sitting person's jacket to leather.",
+            "edit_type": "change_object_texture",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the color of the standing person's jacket to blue.",
+            "edit_type": "change_object_color",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the style of the wheelchair to a modern sports model.",
+            "edit_type": "change_object_style",
+            "special_case": null
+        },
+        {
+            "prompt": "Move the wheelchair and the sitting person further away from the viewer, following the path towards the line of trees in the background.",
+            "edit_type": "translate_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Increase the size of the wheelchair and the person sitting in it by 15%, making it appear larger relative to the man pushing it.",
+            "edit_type": "scale_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Rotate the wheelchair 45 degrees clockwise to face the camera.",
+            "edit_type": "rotate_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the action of the standing person to be running instead of walking.",
+            "edit_type": "change_object_action",
+            "special_case": null
+        },
+        {
+            "prompt": "Apply a watercolor painting style to the entire image.",
+            "edit_type": "global_style_transfer",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the lighting direction to come from the left side.",
+            "edit_type": "change_lighting_direction",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the weather to a rainy afternoon.",
+            "edit_type": "change_weather",
+            "special_case": null
+        },
+        {
+            "prompt": "Apply a global blur effect to the image.",
+            "edit_type": "apply_global_blur",
+            "special_case": null
+        },
+        {
+            "prompt": "Increase the global contrast of the image.",
+            "edit_type": "adjust_global_contrast",
+            "special_case": null
+        },
+        {
+            "prompt": "Replace the background forest with a beach scene.",
+            "edit_type": "replace_background_scene",
+            "special_case": null
+        },
+        {
+            "prompt": "Blur the trees and grass in the background.",
+            "edit_type": "blur_background",
+            "special_case": null
+        }
+    ]
+}

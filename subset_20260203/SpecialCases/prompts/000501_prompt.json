@@ -1,0 +1,84 @@
+{
+    "000501.jpg": [
+        {
+            "prompt": "Add a small backpack on the floor next to the person.",
+            "edit_type": "add_object",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Remove the person sitting on the floor.",
+            "edit_type": "remove_object",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Replace the person with a realistic mannequin.",
+            "edit_type": "replace_object",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Change the texture of the floor to polished dark wood.",
+            "edit_type": "change_object_texture",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Change the color of the pink shirt to a vibrant green.",
+            "edit_type": "change_object_color",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Change the style of the shirt to a sleeveless tank top.",
+            "edit_type": "change_object_style",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Move the person to the left, positioning her directly in front of the white curtains.",
+            "edit_type": "translate_object",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Reduce the size of the person by 40% to make them appear smaller within the frame of the window shadows.",
+            "edit_type": "scale_object",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Rotate the person 90 degrees clockwise to face directly towards the window.",
+            "edit_type": "rotate_object",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Change the person's action to standing up and looking out the window.",
+            "edit_type": "change_object_action",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Apply a global style transfer to make the image look like a charcoal sketch.",
+            "edit_type": "global_style_transfer",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Change the lighting direction to come from the opposite side of the room.",
+            "edit_type": "change_lighting_direction",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Apply a global blur to the entire image for a dreamlike effect.",
+            "edit_type": "apply_global_blur",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Increase the global contrast to make the shadows more dramatic.",
+            "edit_type": "adjust_global_contrast",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Replace the background scene with a modern, minimalist art gallery.",
+            "edit_type": "replace_background_scene",
+            "special_case": "lighting"
+        },
+        {
+            "prompt": "Blur the background behind the person to create a shallow depth of field.",
+            "edit_type": "blur_background",
+            "special_case": "lighting"
+        }
+    ]
+}

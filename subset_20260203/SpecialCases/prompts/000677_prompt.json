@@ -1,0 +1,84 @@
+{
+    "000677.jpg": [
+        {
+            "prompt": "Add a palm tree next to the house.",
+            "edit_type": "add_object",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Remove the house from the center of the fields.",
+            "edit_type": "remove_object",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Replace the house with a cluster of palm trees.",
+            "edit_type": "replace_object",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Change the texture of the house to appear as if made of wood.",
+            "edit_type": "change_object_texture",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Change the color of the fields to a golden yellow.",
+            "edit_type": "change_object_color",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Change the style of the house to a modern minimalist villa.",
+            "edit_type": "change_object_style",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Move the house to the right, positioning it in the center of the large rice terrace field adjacent to the cluster of palm trees on the right side of the image.",
+            "edit_type": "translate_object",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Increase the size of the house by 50%, making it significantly larger than the adjacent swimming pool while maintaining its central position.",
+            "edit_type": "scale_object",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Rotate the house 90 degrees clockwise to align its main structure with the horizontal axis of the surrounding rice terraces.",
+            "edit_type": "rotate_object",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Apply a global style transfer to make the image look like an oil painting.",
+            "edit_type": "global_style_transfer",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Change the lighting direction to create longer shadows from the trees.",
+            "edit_type": "change_lighting_direction",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Change the weather to a stormy and overcast day.",
+            "edit_type": "change_weather",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Apply a global blur to the entire scene.",
+            "edit_type": "apply_global_blur",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Increase the global contrast of the image.",
+            "edit_type": "adjust_global_contrast",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Replace the background fields with a mountain landscape.",
+            "edit_type": "replace_background_scene",
+            "special_case": "topview"
+        },
+        {
+            "prompt": "Blur the background fields while keeping the house in sharp focus.",
+            "edit_type": "blur_background",
+            "special_case": "topview"
+        }
+    ]
+}

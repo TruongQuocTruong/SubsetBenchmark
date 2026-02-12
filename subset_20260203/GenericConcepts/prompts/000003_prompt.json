@@ -1,0 +1,89 @@
+{
+    "000003.jpg": [
+        {
+            "prompt": "Remove the plane from the runway.",
+            "edit_type": "remove_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Replace the plane with a small helicopter.",
+            "edit_type": "replace_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the color of the plane from white and blue to red and black.",
+            "edit_type": "change_object_color",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the texture of the plane to a matte carbon fiber finish.",
+            "edit_type": "change_object_texture",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the style of the plane to a vintage 1940s aircraft.",
+            "edit_type": "change_object_style",
+            "special_case": null
+        },
+        {
+            "prompt": "Move the plane to the left, further back along the runway towards the grassy field on the left side of the frame.",
+            "edit_type": "translate_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Increase the size of the plane by 50%, making it much larger relative to the runway and background hills.",
+            "edit_type": "scale_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Rotate the plane 90 degrees counter-clockwise to face the camera directly.",
+            "edit_type": "rotate_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the plane's action to taking off into the air.",
+            "edit_type": "change_object_action",
+            "special_case": null
+        },
+        {
+            "prompt": "Apply a global oil painting style transfer to the image.",
+            "edit_type": "global_style_transfer",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the lighting direction to come from the right side of the frame.",
+            "edit_type": "change_lighting_direction",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the weather from overcast to a bright, sunny day.",
+            "edit_type": "change_weather",
+            "special_case": null
+        },
+        {
+            "prompt": "Apply a global blur to the entire image.",
+            "edit_type": "apply_global_blur",
+            "special_case": null
+        },
+        {
+            "prompt": "Adjust the global contrast to make the image more dramatic.",
+            "edit_type": "adjust_global_contrast",
+            "special_case": null
+        },
+        {
+            "prompt": "Replace the background scene with a tropical island landing strip.",
+            "edit_type": "replace_background_scene",
+            "special_case": null
+        },
+        {
+            "prompt": "Blur the background area behind the plane.",
+            "edit_type": "blur_background",
+            "special_case": null
+        },
+        {
+            "prompt": "Add a refueling truck next to the plane.",
+            "edit_type": "add_object",
+            "special_case": null
+        }
+    ]
+}

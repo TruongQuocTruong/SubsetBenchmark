@@ -1,0 +1,94 @@
+{
+    "000246.jpg": [
+        {
+            "prompt": "Remove the dog from the image.",
+            "edit_type": "remove_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Replace the dog with a small kitten.",
+            "edit_type": "replace_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the dog's fur color to be completely white.",
+            "edit_type": "change_object_color",
+            "special_case": null
+        },
+        {
+            "prompt": "Move the dog to the left, positioning it to the left of the red pillow on the white rug.",
+            "edit_type": "translate_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Reduce the size of the dog by 50%, making it significantly smaller than the red pillow next to it.",
+            "edit_type": "scale_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the dog's action to sitting.",
+            "edit_type": "change_object_action",
+            "special_case": null
+        },
+        {
+            "prompt": "Remove the red pillow next to the dog.",
+            "edit_type": "remove_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the color of the pillow to green.",
+            "edit_type": "change_object_color",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the texture of the pillow to silk.",
+            "edit_type": "change_object_texture",
+            "special_case": null
+        },
+        {
+            "prompt": "Increase the size of the red pillow by 50%, making it appear significantly larger than the dog's head.",
+            "edit_type": "scale_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the color of the carpet to light grey.",
+            "edit_type": "change_object_color",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the carpet's texture to a shaggy rug.",
+            "edit_type": "change_object_texture",
+            "special_case": null
+        },
+        {
+            "prompt": "Add a tennis ball on the carpet near the dog.",
+            "edit_type": "add_object",
+            "special_case": null
+        },
+        {
+            "prompt": "Apply a sketch style to the entire image.",
+            "edit_type": "global_style_transfer",
+            "special_case": null
+        },
+        {
+            "prompt": "Blur the background behind the dog.",
+            "edit_type": "blur_background",
+            "special_case": null
+        },
+        {
+            "prompt": "Increase the image contrast.",
+            "edit_type": "adjust_global_contrast",
+            "special_case": null
+        },
+        {
+            "prompt": "Replace the indoor setting with a park background.",
+            "edit_type": "replace_background_scene",
+            "special_case": null
+        },
+        {
+            "prompt": "Change the lighting to come from the upper left corner.",
+            "edit_type": "change_lighting_direction",
+            "special_case": null
+        }
+    ]
+}

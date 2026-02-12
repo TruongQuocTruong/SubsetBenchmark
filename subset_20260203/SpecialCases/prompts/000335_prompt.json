@@ -1,0 +1,129 @@
+{
+    "000335.jpg": [
+        {
+            "prompt": "remove the table from the room",
+            "edit_type": "remove_object",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "change the color of the table to a dark walnut finish",
+            "edit_type": "change_object_color",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "change the texture of the table top to white marble",
+            "edit_type": "change_object_texture",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "replace the table with a minimalist square wooden desk",
+            "edit_type": "replace_object",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "Move the table to the left, positioning it closer to the white stool and the cactus.",
+            "edit_type": "translate_object",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "Increase the size of the round table by 50%, making it 1.5 times its current dimensions so it appears significantly larger and taller than the surrounding white stools.",
+            "edit_type": "scale_object",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "remove the larger stool on the right",
+            "edit_type": "remove_object",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "change the color of the right stool to matte black",
+            "edit_type": "change_object_color",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "change the style of the stool on the right to a modern industrial design",
+            "edit_type": "change_object_style",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "Rotate the stool on the right 45 degrees clockwise to change the orientation of its legs relative to the table.",
+            "edit_type": "rotate_object",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "remove the smaller stool on the left",
+            "edit_type": "remove_object",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "change the color of the left stool to a light grey",
+            "edit_type": "change_object_color",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "Reduce the size of the stool on the left by 30%, making it noticeably smaller than the stool on the right.",
+            "edit_type": "scale_object",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "remove the plant located in the corner",
+            "edit_type": "remove_object",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "change the color of the corner plant pot to terracotta",
+            "edit_type": "change_object_color",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "replace the corner plant with a tall leafy fern",
+            "edit_type": "replace_object",
+            "special_case": "occlusion"
+        },
+        {
+            "prompt": "remove the small plant sitting on the table",
+            "edit_type": "remove_object",
+            "special_case": null
+        },
+        {
+            "prompt": "change the color of the flowers on the table to bright red",
+            "edit_type": "change_object_color",
+            "special_case": null
+        },
+        {
+            "prompt": "Increase the scale of the orchid plant on the table by 100%, making it twice as large as its current size.",
+            "edit_type": "scale_object",
+            "special_case": null
+        },
+        {
+            "prompt": "replace the background scene with a modern cafe interior",
+            "edit_type": "replace_background_scene",
+            "special_case": null
+        },
+        {
+            "prompt": "change the lighting direction to come from the upper left corner",
+            "edit_type": "change_lighting_direction",
+            "special_case": null
+        },
+        {
+            "prompt": "apply a global blur effect to the entire image",
+            "edit_type": "apply_global_blur",
+            "special_case": null
+        },
+        {
+            "prompt": "adjust the global contrast to make the image more dramatic",
+            "edit_type": "adjust_global_contrast",
+            "special_case": null
+        },
+        {
+            "prompt": "apply a global style transfer to make the image look like an oil painting",
+            "edit_type": "global_style_transfer",
+            "special_case": null
+        },
+        {
+            "prompt": "blur the background while keeping the table and stools in sharp focus",
+            "edit_type": "blur_background",
+            "special_case": null
+        }
+    ]
+}
