@@ -1,0 +1,3 @@
+Edit instruction: "Change the style of the house to a modern minimalist villa."
+Selected image: longcat_change_object_style_000677.png
+Reason: The image edited by Longcat only adjusted the foreground according to the editing instructions, while keeping the background intact.

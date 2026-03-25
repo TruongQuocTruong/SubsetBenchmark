@@ -1,0 +1,3 @@
+Edit instruction: "Change the action of the standing person to be running instead of walking."
+Selected image: flux_change_object_action_000033.png
+Reason: The edited image by Flux has identifying features such as the face and body parts of the foreground object are preserved.

@@ -1,0 +1,3 @@
+Edit instruction: "Change the lighting direction to be from the upper right."
+Selected image: flux_change_lighting_direction_000164.png
+Reason: The image edited by Flux only changes the lighting effects, but retains the overall composition and layout of the source image.

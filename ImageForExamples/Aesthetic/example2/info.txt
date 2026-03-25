@@ -1,0 +1,3 @@
+Edit instruction: "Rotate the person 90 degrees clockwise to face directly towards the window."
+Selected image: banana_rotate_object_000501.png
+Reason: The image edited by Banana focuses on the girl but does not distort her shape or body parts.

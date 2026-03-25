@@ -1,0 +1,3 @@
+Edit instruction: "Change the plane's action to taking off into the air."
+Selected image: longcat_change_object_action_000003.png
+Reason: The image edited by Longcat adjusts the state of the aircraft while preserving its identifying features, details, and lines.

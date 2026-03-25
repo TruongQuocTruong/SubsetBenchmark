@@ -1,0 +1,3 @@
+Edit instruction: "Apply a sketch-like style to the entire image."
+Selected image: longcat_global_style_transfer_000067.png
+Reason: The image edited by Longcat retains the overall structure and layout from the source image.
